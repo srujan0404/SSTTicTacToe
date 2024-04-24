@@ -1,7 +1,7 @@
 package com.example.models;
 
 public enum GameState {
-    INPROGRESS,
+    IN_PROGRESS,
     ENDED,
     DRAW
 }
